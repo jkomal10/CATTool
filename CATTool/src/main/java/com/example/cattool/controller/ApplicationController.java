@@ -12,6 +12,8 @@ public class ApplicationController {
 	@RequestMapping("/user")
 	public String getUser()
 	{
+
+	System.out.printlln("change 2");
 		System.out.println("Controller by priyanjali");
 		return "Hello word";
 	}
