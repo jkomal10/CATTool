@@ -16,11 +16,10 @@
 		<version>2.0.3.RELEASE</version>
 
 
-		<relativePath/> <!-- lookup parent from repository Suvadra  sahoo -->
+		<relativePath/> <!-- lookup parent from repository Dharmendra--komal -->
 
-		<relativePath/> <!-- lookup parent from repository Dharmendra Kumar-->
 
-		<relativePath/> <!-- lookup parent from suvadra -->
+		
 
 	</parent>
 
@@ -31,6 +30,7 @@
 	</properties>
 
 	<dependencies>
+	<dependency></dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
@@ -50,6 +50,14 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+
+		<dependency></dependency>
+
+
+		<dependency>
+		<scope>provided</scope>
+		</dependency>
+
 	</dependencies>
 
 	<build>
