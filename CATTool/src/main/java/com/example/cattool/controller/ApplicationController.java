@@ -11,5 +11,13 @@ public class ApplicationController {
 	{
 		return "Hello word";
 	}
+	
+	@RequestMapping("/application")
+	public String getapplication()
+	{
+		
+		System.out.println("hi ");
+		return "Hello everyone";
+	}
 
 }
