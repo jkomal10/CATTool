@@ -13,7 +13,7 @@ public class ApplicationController {
 	public String getUser()
 	{
 
-	System.out.printlln("change 2");
+	System.out.println("change 2");
 		System.out.println("Controller by priyanjali");
 		return "Hello word";
 	}
@@ -29,6 +29,7 @@ public class ApplicationController {
 	@GetMapping("/app")
 			public String grt()
 			{
+		System.out.println("Controller by priyanjali");
 		return "hjkk";
 			}
 }
