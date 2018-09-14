@@ -15,7 +15,11 @@
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.0.3.RELEASE</version>
 
-		<relativePath/> <!-- lookup parent from repository sahoo -->
+
+		<relativePath/> <!-- lookup parent from repository Suvadra  sahoo -->
+
+		<relativePath/> <!-- lookup parent from repository Dharmendra Kumar-->
+
 		<relativePath/> <!-- lookup parent from suvadra -->
 
 	</parent>
