@@ -48,8 +48,14 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+
 		<dependency></dependency>
-		<dependency></dependency>
+
+
+		<dependency>
+		<scope>provided</scope>
+		</dependency>
+
 	</dependencies>
 
 	<build>
